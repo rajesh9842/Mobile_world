@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T17:05:32 IST" name="Default suite" finished-at="2022-09-19T17:06:35 IST" duration-ms="63065">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T17:05:32 IST" name="Default test" finished-at="2022-09-19T17:06:35 IST" duration-ms="63065">
+      <class name="automation.orders">
+        <test-method is-config="true" signature="verifyorder()[pri:0, instance:automation.orders@3bf9ce3e]" started-at="2022-09-19T17:05:32 IST" name="verifyorder" finished-at="2022-09-19T17:05:45 IST" duration-ms="13190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyorder -->
+        <test-method signature="adddata(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:automation.orders@3bf9ce3e]" started-at="2022-09-19T17:05:45 IST" name="adddata" data-provider="data" finished-at="2022-09-19T17:06:08 IST" duration-ms="22721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rajesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[raje]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[raj@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234567898]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[48 eastufq]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[iwvgiwbibh]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[saleeennn]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[1234567898]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adddata -->
+        <test-method is-config="true" signature="verifyorder()[pri:0, instance:automation.orders@3bf9ce3e]" started-at="2022-09-19T17:06:08 IST" name="verifyorder" finished-at="2022-09-19T17:06:12 IST" duration-ms="4786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyorder -->
+        <test-method signature="adddata(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:automation.orders@3bf9ce3e]" started-at="2022-09-19T17:06:12 IST" name="adddata" data-provider="data" finished-at="2022-09-19T17:06:35 IST" duration-ms="22268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajesg@gmail]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[r4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3d]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[7u]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[sa]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adddata -->
+      </class> <!-- automation.orders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
